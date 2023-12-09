@@ -1,0 +1,7 @@
+name: CS1420
+link: /cs1420/
+projects:
+  - name: test
+    link: /cs1420/test.html
+  - name: empty
+    link: /cs1420/

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<main class="wrapper-main">
+    <div class="main-content">
+        {{ content }}
+        <h3>Projects</h3>
+    	{% for class_hash in site.data.classes %}
+		{% assign class = class_hash[1] %}
+	  		{% if {{class.name}} == {{page.title}} %}
+		  	{% for project in class.projects %}
+		  		<li>
+		  		<a href={{project.link}}>{{project.name}}</a>
+		  		</li>
+		  	{% endfor %}
+  			{% endif %}
+		{% endfor %}
+	</div>	    	
+</main>
