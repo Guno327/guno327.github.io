@@ -1,4 +1,4 @@
 ---
-title: Intro to Computer Graphics
+title: CS4600
 layout: projects
 ---

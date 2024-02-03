@@ -2,5 +2,13 @@ number: CS4600
 name: Intro to Computer Graphics
 projects-link: /cs4600/projects
 link: /cs4600/
-no-projects: true
+no-projects: false
 projects:
+  - name: Curves
+    link: /cs4600/curves.html
+  - name: Teapot
+    link: /cs4600/teapot.html
+  - name: Raytracing
+    link: /cs4600/raytracing.html
+  - name: Physics
+    link: /cs4600/physics.html

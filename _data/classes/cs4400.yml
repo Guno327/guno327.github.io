@@ -2,5 +2,13 @@ number: CS4400
 name: Computer Systems
 projects-link: /cs4400/projects
 link: /cs4400/
-no-projects: true
+no-projects: false
 projects:
+  - name: Simulator
+    link: /cs4400/simulator.html
+  - name: Shell
+    link: /cs4400/shell.html
+  - name: Memory Allocator
+    link: /cs4400/malloc.html
+  - name: Web Server
+    link: /cs4400/web-server

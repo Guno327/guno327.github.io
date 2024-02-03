@@ -13,6 +13,18 @@ My name is Gunnar and I am a junior studying Computer Science at the University 
 - GPA: 3.8
 
 # Work Experience
+### University of Utah: Teaching Assistant
+- Employeed Fall 2023 semester - Current
+- Held office hours weekly
+- Assisted students with course work
+- Led a weekly discussion section to supplmenet the Professors lectures
+- Created course material as part of the instructional team
+- Graded and evaluated student work under prompt deadlines
+### UPS: Package Handler
+- Employeed from **June 2022 - June 2023**
+- Scanned and sorted packages according to location
+- Loaded ULDs in a systematic and organized manner
+- Troubleshooted malfunctioning equipment
 ### Harris Teeter: Customer Service Clerk
 - Employed from **April 2019 - August 2021**
 - Directly managed a staff of 10-20 Front End employees daily
@@ -20,18 +32,7 @@ My name is Gunnar and I am a junior studying Computer Science at the University 
 - Assisted customers with concerns
 - Audited and verified finnancial information
 
-### UPS: Package Handler
-- Employeed from **June 2022 - June 2023**
-- Scanned and sorted packages according to location
-- Loaded ULDs in a systematic and organized manner
-- Troubleshooted malfunctioning equipment
 
-### University of Utah: Teaching Assistant
-- Held office hours weekly
-- Assisted students with course work
-- Led a weekly discussion section to supplmenet the Professors lectures
-- Created course material as part of the instructional team
-- Graded and evaluated student work under prompt deadlines
 
 # Contact
 Email: [gunnarhovik@outlook.com](mailto:gunnarhovik@outlook.com?subject=)

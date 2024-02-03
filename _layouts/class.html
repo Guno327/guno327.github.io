@@ -9,12 +9,14 @@ layout: default
     	{% for class_hash in site.data.classes %}
 		{% assign class = class_hash[1] %}
 	  		{% if class.number == page.title %}
-		  	{% for project in class.projects %}
-		  		<li>
-		  		<a href={{project.link}}>"{{project.name}}"</a>
-		  		</li>
-		  	{% endfor %}
-  			{% endif %}
+				{% if class.no-projects == false %}
+					{% for project in class.projects %}
+						<li>
+						<a href={{project.link}}>"{{project.name}}"</a>
+						</li>
+					{% endfor %}
+				{% endif %}
+			{% endif %}
 		{% endfor %}
 	</div>	    	
 </main>
