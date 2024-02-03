@@ -1,0 +1,4 @@
+---
+title: Algorithms
+layout: projects
+---

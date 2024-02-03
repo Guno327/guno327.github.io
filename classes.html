@@ -7,7 +7,7 @@ title: Classes
 {% for class_hash in site.data.classes %}
 {% assign class = class_hash[1] %}
   <li>
-    <a href={{class.link}}>{{class.name}}</a>
+    <a href={{class.link}}>{{class.number}}: {{class.name}}</a>
   </li>
 {% endfor %}
 

@@ -1,5 +1,8 @@
-name: CS1420
+number: CS1420
+name: Accelerated Introduction to Object-Oriented Programming
+projects-link: /cs1420/projects
 link: /cs1420/
+no-projects: false
 projects:
   - name: test
     link: /cs1420/test.html
