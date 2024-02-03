@@ -2,5 +2,5 @@ number: CS2420
 name: Data Structres and Algorithms
 projects-link: /cs2420/projects
 link: /cs2420/
-no-projects: false
+no-projects: true
 projects:

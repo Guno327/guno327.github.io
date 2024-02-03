@@ -1,0 +1,14 @@
+number: CS3505
+name: Software Practice II
+projects-link: /cs3505/projects.html
+link: /cs3505/
+no-projects: false
+projects:
+  - name: 1D Cellular Automata 
+    link: /cs3505/a1.html
+  - name: Classes, Facades, and Makefiles 
+    link: /cs3505/a2.html
+  - name: A Trie and Rule-of-Three
+    link: /cs3505/a3.html
+  - name: Eduapp
+    link: /cs3505/eduapp.html

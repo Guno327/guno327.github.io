@@ -4,7 +4,5 @@ projects-link: /cs1420/projects
 link: /cs1420/
 no-projects: false
 projects:
-  - name: test
-    link: /cs1420/test.html
-  - name: empty
-    link: /cs1420/
+  - name: Tower Defense
+    link: /cs1420/towerdefense.html

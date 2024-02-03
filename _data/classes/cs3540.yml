@@ -2,5 +2,5 @@ number: CS3540
 name: Designing Human Centered Experiences
 projects-link: /cs3540/projects
 link: /cs3540/
-no-projects: false
+no-projects: true
 projects:

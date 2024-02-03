@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<main class="wrapper-main">
+    <div class="main-content">
+        <h3>Personal Projects</h3>
+            {% for project in site.data.personal.projects %}
+                <li>
+                <a href={{project.link}}>"{{project.name}}"</a>
+                </li>
+            {% endfor %}
+	</div>	    	
+</main>

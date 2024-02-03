@@ -1,0 +1,5 @@
+projects:
+  - name: Home Lab
+    link: /personal/homelab.html
+  - name: OPNsense
+    link: /personal/opnsense.html

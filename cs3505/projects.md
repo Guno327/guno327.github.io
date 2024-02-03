@@ -1,4 +1,4 @@
 ---
-title: Software Practice II
+title: CS3505
 layout: projects
 ---

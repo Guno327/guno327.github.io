@@ -4,3 +4,5 @@ projects-link: /cs3500/projects
 link: /cs3500/
 no-projects: false
 projects:
+  - name: Spreadsheet
+    link: /cs3500/spreadsheet.html

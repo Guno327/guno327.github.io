@@ -2,5 +2,5 @@ number: CS4400
 name: Computer Systems
 projects-link: /cs4400/projects
 link: /cs4400/
-no-projects: false
+no-projects: true
 projects:

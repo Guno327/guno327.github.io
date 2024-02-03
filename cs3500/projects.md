@@ -1,4 +1,4 @@
 ---
-title: Software Practice
+title: CS3500
 layout: projects
 ---
