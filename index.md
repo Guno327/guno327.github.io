@@ -4,7 +4,7 @@ title: About & Contact
 ---
 
 # About
-My name is Gunnar and I am a junior studying Computer Science at the University of Utah. I have always had a passion for computers that led me to persure an education in that field. I enjoy playing video games and messing around with Linux in my free time. 
+My name is Gunnar and I am a junior studying Computer Science at the University of Utah. I have always had a passion for computers that led me to persue an education in that field. I enjoy playing video games and messing around with Linux in my free time. 
 
 # Education
 ### University of Utah
