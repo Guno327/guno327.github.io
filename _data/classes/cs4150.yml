@@ -2,4 +2,24 @@ number: CS4150
 name: Algorithms
 projects-link: /cs4150/projects
 link: /cs4150/
-no-projects: true
+no-projects: false
+projects:
+  - name: Anagram
+    link: /cs4150/ps1.html
+  - name: Ceiling
+    link: /cs4150/ps2.html
+  - name: Galaxy Quest
+    link: /cs4150/ps3.html
+  - name: Auto Sink
+    link: /cs4150/ps4.html
+  - name: Rumor Mill
+    link: /cs4150/ps5.html
+  - name: Get Shorty
+    link: /cs4150/ps6.html
+  - name: Number Theory
+    link: /cs4150/ps7.html
+  - name: Bank Queue
+    link: /cs4150/ps8.html
+  - name: Under the Rainbow
+    link: /cs4150/ps9.html
+
